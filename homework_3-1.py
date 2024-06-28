@@ -25,7 +25,8 @@ def get_days_from_today(date) -> int:
 
     return difference
 
-''' # example usage:
+''' 
+# example usage:
 date = input("Please, write a date: ")
 print(f"The difference between the current day and your date is {get_days_from_today(date)}")
 '''
